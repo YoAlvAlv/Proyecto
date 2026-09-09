@@ -1,2 +1,6 @@
 # git branch -m "cambiar nombre"
 # git init = crear  nuevo repositorio
+__pycache__/
+*.pyc
+venv/
+.env
